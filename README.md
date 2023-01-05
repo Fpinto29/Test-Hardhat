@@ -1,8 +1,8 @@
-# Sample Hardhat Project
+# Simple Hardhat Project
 
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
 
-Try running some of the following tasks:
+If you are trying out hardhat this can be a good change to try it first hand. Try running some of the following tasks:
 
 ```shell
 npx hardhat help
